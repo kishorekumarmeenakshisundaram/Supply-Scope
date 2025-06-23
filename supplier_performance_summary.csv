@@ -1,0 +1,4 @@
+supplier_name,total_orders,on_time_delivery_ratio,avg_delay_days
+Supplier_1,2,1.0,-0.5
+Supplier_2,1,1.0,-3.0
+Supplier_5,2,0.5,0.0
